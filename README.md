@@ -39,8 +39,10 @@ Theater in the area <br />
 ![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/theaterdeatail.png)
 
 ## Add Friends!
-
+![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/QRcode.png) 
 ## Reference
 https://movies.yahoo.com.tw
 ## Bonus
 ### Meme
+Text "more" outside the menu to find surprise <br />
+![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/more.png)

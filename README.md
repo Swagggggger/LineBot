@@ -16,7 +16,7 @@ Help you find the information about films
    Users can choose the area theaters in 
 
 ## FSM
-
+![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/FSM.png)
 ## Demo
 ### Menu
 Text any messenge to call FilmFinder,then select a button <br />

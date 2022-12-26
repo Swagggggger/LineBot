@@ -17,6 +17,14 @@ Help you find the information about films
 
 ## FSM
 ![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/FSM.png)
+
+## Technique
+* LINE Bot: Built by the official LINE Messaging API
+* Web Crawling: Use BeutifulSoup to search the website and fetch films' information
+* Backend: Use Flask to handle the webhook and build the backend
+* Anaconda: Use virtualenv to create my python environment
+* ngrok: Test server locally by mapping my localhost to https domain
+
 ## Demo
 ### Menu
 Text any messenge to call FilmFinder,then select a button <br />
@@ -39,9 +47,11 @@ Theater in the area <br />
 ![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/theaterdeatail.png)
 
 ## Add Friends!
-![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/QRcode.png) 
+![image](https://raw.githubusercontent.com/Swagggggger/LineBot/img/QRcode.png)
+
 ## Reference
 https://movies.yahoo.com.tw
+
 ## Bonus
 ### Meme
 Text "more" outside the menu to find surprise <br />
